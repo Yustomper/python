@@ -1,0 +1,8 @@
+practica1 = float(input("ingrese nota practica 1: "))
+practica2 = float(input("ingrese nota pactica 2: "))
+practica3 = float(input("ingrese nota practica 3: "))
+examenParcial= float(input("ingrese nota examen parcial: "))
+examenFinal= float(input("ingrese valor nota final: "))
+promedioPractica = ((practica1+practica2+practica3)/3)
+promedio = ((promedioPractica+(2*examenParcial)+(3*examenFinal))/6)
+print ("promedio es : ",promedio)
