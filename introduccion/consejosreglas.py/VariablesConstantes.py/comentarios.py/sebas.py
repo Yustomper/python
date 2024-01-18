@@ -1,5 +1,0 @@
-nombre = input("ingresa tu nombre: ")
-edad = int(input("ingresa tu edad: "))
-sexo= input("ingresa tu sexo: ")
-print ("hola mi pequeño",nombre,"ya tienes",edad)
-print ("y tu sexo es", sexo )
